@@ -1,0 +1,2199 @@
+menu1.txt French
+menu2.txt French Gluten-Free
+menu3.txt French
+menu4.txt Italian Gluten-Free Pizza
+menu5.txt French European
+menu6.txt Steakhouse
+menu7.txt Seafood
+menu8.txt American Gluten-Free
+menu9.txt American
+menu10.txt Italian Pizza Gluten-Free
+menu11.txt American Mediterranean
+menu12.txt American
+menu13.txt American
+menu14.txt American Steakhouse
+menu15.txt Seafood American Contemporary
+menu16.txt Seafood
+menu17.txt Italian
+menu18.txt Italian
+menu19.txt American
+menu20.txt Chinese Japanese Asian
+menu21.txt American
+menu22.txt Seafood Soups
+menu23.txt Asian Thai
+menu24.txt American Steakhouse
+menu25.txt Italian Seafood Soups
+menu26.txt Italian
+menu27.txt American Gluten-Free
+menu28.txt Italian Pizza Gluten-Free International
+menu29.txt American
+menu30.txt American Barbecue
+menu31.txt Italian Pizza
+menu32.txt American Fast-Food
+menu33.txt Italian European Gluten-Free
+menu34.txt French European
+menu35.txt Italian Vegetarian Soups Gluten-Free
+menu36.txt Japanese Sushi Asian
+menu37.txt American Steakhouse
+menu38.txt Italian Pizza
+menu39.txt French
+menu40.txt Italian Mediterranean
+menu41.txt Italian
+menu42.txt Italian Pizza Fast-Food
+menu43.txt American Steakhouse
+menu44.txt Italian Pizza Gluten-Free
+menu45.txt Italian Chinese Japanese American Sushi Asian Vegetarian Vegan Soups Gluten-Free Pizza
+menu46.txt American Steakhouse
+menu47.txt Seafood
+menu48.txt Italian European
+menu49.txt American
+menu50.txt American Fast-Food
+menu51.txt Italian Pizza
+menu52.txt Kosher American Delicatessen
+menu53.txt American Diner
+menu54.txt Italian
+menu55.txt Mexican Latin
+menu56.txt French
+menu57.txt Brazilian Steakhouse Latin Barbecue South-American
+menu58.txt American Fast-Food
+menu59.txt Italian American
+menu60.txt American Diner
+menu61.txt Fast-Food Delicatessen
+menu62.txt American
+menu63.txt Italian
+menu64.txt Lebanese Mediterranean Middle-Eastern
+menu65.txt Italian
+menu66.txt American Soups
+menu67.txt American Steakhouse
+menu68.txt American Steakhouse
+menu69.txt American Diner
+menu70.txt Mexican Central-American
+menu71.txt Italian
+menu72.txt Japanese Sushi Asian Contemporary Fusion
+menu73.txt American
+menu74.txt American Fast-Food
+menu75.txt Italian European Asian Japanese American Sushi
+menu76.txt American Steakhouse Grill
+menu77.txt American Grill Steakhouse
+menu78.txt Mediterranean Greek Seafood
+menu79.txt Japanese Sushi Asian Contemporary
+menu80.txt Mexican Caribbean Cuban South-American
+menu81.txt American Fast-Food
+menu82.txt American Irish Bar Pub
+menu83.txt Italian Pizza
+menu84.txt French European Soups
+menu85.txt American Kosher
+menu86.txt Steakhouse Brazilian South-American Barbecue
+menu87.txt American
+menu88.txt American Diner
+menu89.txt Seafood American International
+menu90.txt American Steakhouse
+menu91.txt Moroccan Mediterranean
+menu92.txt American
+menu93.txt Delicatessen Kosher
+menu94.txt American Delicatessen
+menu95.txt American Fast-Food
+menu96.txt American Bar British Pub Irish
+menu97.txt Japanese Asian
+menu98.txt Italian Pizza
+menu99.txt American Steakhouse Seafood Barbecue
+menu100.txt American
+menu101.txt Japanese Asian Soups Korean
+menu102.txt American
+menu103.txt American
+menu104.txt Italian
+menu105.txt American Irish Brew-Pub Gastropub
+menu106.txt American
+menu107.txt Mediterranean European French
+menu108.txt American Soups
+menu109.txt Italian
+menu110.txt Italian
+menu111.txt French American
+menu112.txt American Barbecue
+menu113.txt Vegetarian Vegan Gluten-Free
+menu114.txt American Bar Pub Irish
+menu115.txt American
+menu116.txt American Seafood Sushi
+menu117.txt French Soups
+menu118.txt American
+menu119.txt Italian Contemporary
+menu120.txt Italian Pizza
+menu121.txt American Irish Bar Pub
+menu122.txt American
+menu123.txt Italian Pizza
+menu124.txt American Gluten-Free
+menu125.txt American Mediterranean
+menu126.txt Chinese
+menu127.txt Brazilian European Portuguese South-American
+menu128.txt American Steakhouse
+menu129.txt American Seafood Sushi
+menu130.txt American
+menu131.txt American Seafood Soups
+menu132.txt Italian Pizza Gluten-Free
+menu133.txt Italian
+menu134.txt American Diner Soups Delicatessen
+menu135.txt Irish Bar Pub Seafood British
+menu136.txt Japanese Asian Soups
+menu137.txt American
+menu138.txt Seafood
+menu139.txt American Bar Pub
+menu140.txt Japanese American Steakhouse Sushi
+menu141.txt American International
+menu142.txt Italian Mediterranean
+menu143.txt Mexican
+menu144.txt Italian
+menu145.txt Asian Thai Vietnamese
+menu146.txt Italian Soups Gluten-Free
+menu147.txt American
+menu148.txt American
+menu149.txt American Irish Bar British Pub
+menu150.txt American
+menu151.txt Mexican
+menu152.txt French
+menu153.txt Italian Pizza
+menu154.txt American Steakhouse
+menu155.txt Italian French Seafood Contemporary
+menu156.txt American Bar
+menu157.txt French Belgian European
+menu158.txt Mediterranean Italian Spanish
+menu159.txt Mexican Caribbean Latin Spanish Cuban
+menu160.txt Italian
+menu161.txt Italian Gluten-Free Pizza Contemporary
+menu162.txt Italian Gluten-Free Mediterranean
+menu163.txt Brazilian South-American
+menu164.txt American Bar
+menu165.txt Japanese Sushi Asian
+menu166.txt Japanese Sushi Asian Contemporary
+menu167.txt American Seafood Soups
+menu168.txt French Gluten-Free American
+menu169.txt French Soups Mediterranean
+menu170.txt American
+menu171.txt American
+menu172.txt Italian
+menu173.txt American Kosher Delicatessen
+menu174.txt Caribbean Latin Cuban Spanish
+menu175.txt American Grill Contemporary
+menu176.txt American Cafe Delicatessen Diner
+menu177.txt American
+menu178.txt American Fast-Food
+menu179.txt Italian
+menu180.txt Italian Gluten-Free Pizza Wine-Bar
+menu181.txt French American International Spanish
+menu182.txt Steakhouse American Seafood
+menu183.txt French European Contemporary
+menu184.txt American Steakhouse
+menu185.txt Italian Pizza
+menu186.txt Italian Pizza
+menu187.txt American
+menu188.txt Cafe
+menu189.txt French
+menu190.txt American
+menu191.txt Italian Pizza
+menu192.txt Italian American Mediterranean
+menu193.txt Italian Pizza
+menu194.txt Japanese Sushi Asian
+menu195.txt French American Seafood
+menu196.txt Italian
+menu197.txt American German Kosher
+menu198.txt American
+menu199.txt American
+menu200.txt French American
+menu201.txt American
+menu202.txt American Bar Fusion
+menu203.txt American Bar Fusion
+menu204.txt American Steakhouse
+menu205.txt American Contemporary
+menu206.txt Indian
+menu207.txt American Steakhouse
+menu208.txt Italian
+menu209.txt American Barbecue
+menu210.txt Italian
+menu211.txt American
+menu212.txt Italian Seafood
+menu213.txt Sushi Soups Japanese American Seafood
+menu214.txt Italian Pizza
+menu215.txt American Steakhouse
+menu216.txt American Steakhouse
+menu217.txt Italian Pizza
+menu218.txt American Barbecue
+menu219.txt French
+menu220.txt Italian Pizza
+menu221.txt American
+menu222.txt American Steakhouse Seafood Vegetarian Wine-Bar
+menu223.txt Sushi Japanese American Seafood
+menu224.txt French
+menu225.txt American Pub
+menu226.txt Italian
+menu227.txt Asian Korean
+menu228.txt American Vegetarian Vegan Gluten-Free
+menu229.txt American Fast-Food
+menu230.txt Vegan
+menu231.txt Japanese Sushi Asian
+menu232.txt Japanese Sushi Asian
+menu233.txt American
+menu234.txt Mexican
+menu235.txt Chinese Asian
+menu236.txt Chinese Asian Soups
+menu237.txt Venezuelan South-American
+menu238.txt Japanese Asian Soups
+menu239.txt American Bar Pub Brew-Pub Gastropub
+menu240.txt Seafood Mediterranean Greek
+menu241.txt Seafood American
+menu242.txt Wine-Bar
+menu243.txt American Bar
+menu244.txt Caribbean Cuban Spanish Vegetarian
+menu245.txt French American Contemporary
+menu246.txt Asian Korean Vegetarian Vegan
+menu247.txt Italian Mediterranean
+menu248.txt Mediterranean Greek
+menu249.txt American Soups Gluten-Free
+menu250.txt American Steakhouse
+menu251.txt Indian Middle-Eastern Pakistani
+menu252.txt American Bar
+menu253.txt Italian Soups American International
+menu254.txt American Irish Bar Pub
+menu255.txt American Barbecue
+menu256.txt American
+menu257.txt Italian Pizza
+menu258.txt Middle-Eastern Mediterranean
+menu259.txt American Japanese Steakhouse Seafood Sushi
+menu260.txt Italian Mediterranean
+menu261.txt Italian
+menu262.txt French
+menu263.txt American Bar
+menu264.txt International European Swedish Scandinavian
+menu265.txt Sushi Asian Japanese Korean Vegetarian Vegan
+menu266.txt American Steakhouse
+menu267.txt Italian Gluten-Free Pizza
+menu268.txt Italian Pizza
+menu269.txt American Cafe Diner
+menu270.txt Chinese Asian Thai Soups Japanese Vietnamese
+menu271.txt Gastropub American Bar Pub
+menu272.txt Italian
+menu273.txt Middle-Eastern Mediterranean
+menu274.txt American Bar Fast-Food
+menu275.txt Italian
+menu276.txt Italian
+menu277.txt Steakhouse
+menu278.txt American Greek
+menu279.txt Italian
+menu280.txt Vegetarian
+menu281.txt American Delicatessen
+menu282.txt American Bar Pub Irish International
+menu283.txt American Diner
+menu284.txt American Pub
+menu285.txt German Austrian European Cafe
+menu286.txt American European
+menu287.txt Italian Pizza
+menu288.txt American Bar Barbecue Pub
+menu289.txt American
+menu290.txt Italian Pizza
+menu291.txt American Bar Pub
+menu292.txt French American Fusion
+menu293.txt American
+menu294.txt American Steakhouse Vegetarian
+menu295.txt Mediterranean Israeli
+menu296.txt American Bar Pub
+menu297.txt Italian Pizza
+menu298.txt French International
+menu299.txt Italian Pizza
+menu300.txt Asian Vietnamese Cambodian
+menu301.txt American Steakhouse
+menu302.txt Pub American
+menu303.txt French European
+menu304.txt Asian Korean
+menu305.txt French
+menu306.txt Mexican
+menu307.txt Seafood French American Contemporary
+menu308.txt American
+menu309.txt Italian Pizza
+menu310.txt American Diner Cafe Delicatessen
+menu311.txt International
+menu312.txt American
+menu313.txt American
+menu314.txt Italian
+menu315.txt American Seafood Pizza Contemporary
+menu316.txt Italian Seafood
+menu317.txt American Pub
+menu318.txt American Steakhouse
+menu319.txt Italian Pizza
+menu320.txt American
+menu321.txt European French International
+menu322.txt Chinese Asian Japanese
+menu323.txt French
+menu324.txt Italian Pizza
+menu325.txt Spanish Mediterranean
+menu326.txt American Pub
+menu327.txt Japanese Sushi Asian
+menu328.txt American Diner
+menu329.txt Steakhouse American
+menu330.txt Japanese Sushi Asian
+menu331.txt American Diner Cafe
+menu332.txt American
+menu333.txt French American Steakhouse Seafood
+menu334.txt Chinese Asian
+menu335.txt American Contemporary
+menu336.txt Italian
+menu337.txt Seafood International
+menu338.txt American Steakhouse Grill
+menu339.txt Italian
+menu340.txt Pub
+menu341.txt European Mediterranean
+menu342.txt Italian
+menu343.txt American Irish
+menu344.txt American French
+menu345.txt Seafood American
+menu346.txt Middle-Eastern
+menu347.txt American
+menu348.txt American Irish Bar Pub British
+menu349.txt Italian
+menu350.txt American Cafe
+menu351.txt Mexican
+menu352.txt American
+menu353.txt Italian Pizza
+menu354.txt French Asian Contemporary
+menu355.txt American Kosher Delicatessen
+menu356.txt American Cafe Diner
+menu357.txt French American International
+menu358.txt Pub American Steakhouse Irish Pizza
+menu359.txt Asian Thai
+menu360.txt Asian Thai Seafood
+menu361.txt American
+menu362.txt Italian American
+menu363.txt Japanese Sushi Asian Pacific-Rim
+menu364.txt Italian Seafood
+menu365.txt American
+menu366.txt French American
+menu367.txt Pizza
+menu368.txt American Contemporary
+menu369.txt Brazilian
+menu370.txt American
+menu371.txt American Steakhouse
+menu372.txt American
+menu373.txt Italian
+menu374.txt Italian
+menu375.txt Italian Pizza
+menu376.txt American Pub
+menu377.txt Italian Mediterranean
+menu378.txt American
+menu379.txt American
+menu380.txt Italian Pizza
+menu381.txt Steakhouse American
+menu382.txt American Pub Steakhouse Irish Bar
+menu383.txt American Bar Pub Brew-Pub Pizza
+menu384.txt Vegan Indian
+menu385.txt Japanese
+menu386.txt Japanese Sushi Asian
+menu387.txt American
+menu388.txt American International
+menu389.txt Mediterranean Italian
+menu390.txt American
+menu391.txt American Australian
+menu392.txt American
+menu393.txt Seafood Contemporary
+menu394.txt Italian Pizza
+menu395.txt French American European Soups
+menu396.txt Italian
+menu397.txt Italian
+menu398.txt Mediterranean Greek
+menu399.txt American Delicatessen
+menu400.txt Italian American
+menu401.txt French
+menu402.txt American International
+menu403.txt American Steakhouse
+menu404.txt Barbecue Asian Korean
+menu405.txt Steakhouse American Seafood Vegetarian Wine-Bar
+menu406.txt French American Seafood
+menu407.txt Asian Thai
+menu408.txt French
+menu409.txt Italian Pizza
+menu410.txt American Bar Vegetarian Pub
+menu411.txt American
+menu412.txt Chinese Asian
+menu413.txt Asian American International Contemporary
+menu414.txt American Seafood Sushi
+menu415.txt French German
+menu416.txt American Steakhouse
+menu417.txt Italian Pizza Seafood Mediterranean
+menu418.txt French
+menu419.txt Italian
+menu420.txt Italian Pizza
+menu421.txt Pub Irish
+menu422.txt Italian
+menu423.txt American
+menu424.txt Mediterranean Spanish
+menu425.txt Eastern-European Armenian Lebanese Mediterranean Middle-Eastern
+menu426.txt Delicatessen Kosher
+menu427.txt Asian Thai
+menu428.txt Italian
+menu429.txt American
+menu430.txt Spanish Mediterranean
+menu431.txt Italian American International
+menu432.txt Mexican Latin Fast-Food Spanish
+menu433.txt Steakhouse Argentinean South-American
+menu434.txt American
+menu435.txt Italian
+menu436.txt Japanese Sushi Asian
+menu437.txt American Bar Pub Grill
+menu438.txt French
+menu439.txt French
+menu440.txt Mexican
+menu441.txt French
+menu442.txt Italian
+menu443.txt Mediterranean Turkish
+menu444.txt Mexican
+menu445.txt Italian European Portuguese
+menu446.txt Italian
+menu447.txt French Contemporary
+menu448.txt Italian Pizza
+menu449.txt Italian Pizza
+menu450.txt American Seafood Soups
+menu451.txt Spanish Mediterranean
+menu452.txt Japanese Sushi Asian
+menu453.txt Chinese Asian
+menu454.txt Pub Gastropub
+menu455.txt French
+menu456.txt American Pub
+menu457.txt American
+menu458.txt Vegan Vegetarian
+menu459.txt Japanese Sushi Asian
+menu460.txt Mexican
+menu461.txt Seafood
+menu462.txt Mediterranean Italian
+menu463.txt American Vegetarian Vegan
+menu464.txt Japanese Seafood Sushi
+menu465.txt Japanese Asian
+menu466.txt Japanese Sushi Asian
+menu467.txt Italian
+menu468.txt Mediterranean Middle-Eastern Russian Kosher Israeli
+menu469.txt American Pub
+menu470.txt Mexican
+menu471.txt American International
+menu472.txt American Barbecue
+menu473.txt American Contemporary
+menu474.txt French
+menu475.txt American
+menu476.txt American
+menu477.txt Italian
+menu478.txt Greek Mediterranean
+menu479.txt Mediterranean Spanish
+menu480.txt Italian
+menu481.txt Italian
+menu482.txt American Cafe
+menu483.txt Italian
+menu484.txt American
+menu485.txt Asian Korean Vegetarian
+menu486.txt Italian Pizza
+menu487.txt French American Seafood
+menu488.txt Steakhouse American
+menu489.txt American Spanish Asian
+menu490.txt Italian Pizza Brew-Pub
+menu491.txt French
+menu492.txt Soups
+menu493.txt Italian Bar
+menu494.txt French European Russian Central-European
+menu495.txt Italian American Pizza Seafood
+menu496.txt American
+menu497.txt Chinese Asian
+menu498.txt American
+menu499.txt American Vegetarian Delicatessen
+menu500.txt Asian Korean Barbecue
+menu501.txt Mediterranean Greek
+menu502.txt Italian American Steakhouse Diner
+menu503.txt French International
+menu504.txt Italian Pizza
+menu505.txt Chinese Japanese Sushi Asian
+menu506.txt American
+menu507.txt American
+menu508.txt Italian
+menu509.txt French
+menu510.txt Russian Eastern-European International
+menu511.txt Japanese Sushi Asian International Fusion
+menu512.txt American
+menu513.txt American
+menu514.txt Italian
+menu515.txt Italian Pizza
+menu516.txt Italian French
+menu517.txt American Bar Pub
+menu518.txt American
+menu519.txt Italian Pizza
+menu520.txt Italian Pizza
+menu521.txt Mediterranean European Turkish French Spanish Greek Middle-Eastern
+menu522.txt American International Pub
+menu523.txt Chinese European Asian Portuguese
+menu524.txt Italian Pizza Vegetarian Wine-Bar
+menu525.txt American
+menu526.txt American Diner
+menu527.txt Italian
+menu528.txt Italian American
+menu529.txt American Barbecue
+menu530.txt Peruvian South-American
+menu531.txt Contemporary Wine-Bar
+menu532.txt Kosher American Steakhouse Sushi
+menu533.txt Chinese Asian
+menu534.txt Asian Vietnamese French
+menu535.txt Mediterranean Vegetarian Middle-Eastern Vegan
+menu536.txt Italian Pizza
+menu537.txt American
+menu538.txt Caribbean Jamaican
+menu539.txt Irish Pub British Diner
+menu540.txt Italian Pizza
+menu541.txt American
+menu542.txt Italian
+menu543.txt American
+menu544.txt American
+menu545.txt German Austrian European
+menu546.txt American Diner Delicatessen
+menu547.txt Pub American Irish British
+menu548.txt American Diner
+menu549.txt French
+menu550.txt French
+menu551.txt Spanish
+menu552.txt Italian Pizza
+menu553.txt American Southwestern
+menu554.txt Indian Vegetarian Healthy Vegan
+menu555.txt American Bar Pub
+menu556.txt Italian
+menu557.txt American Pub
+menu558.txt Italian Japanese
+menu559.txt American
+menu560.txt Mexican
+menu561.txt Mexican Latin
+menu562.txt American International
+menu563.txt Japanese Sushi Asian
+menu564.txt Italian Pizza
+menu565.txt American
+menu566.txt Japanese American International
+menu567.txt Japanese Sushi Asian Brazilian Peruvian South-American
+menu568.txt Caribbean Latin Spanish Cuban
+menu569.txt Seafood Mediterranean Greek
+menu570.txt Chinese Asian Seafood
+menu571.txt American
+menu572.txt Italian
+menu573.txt French American European Grill
+menu574.txt American Steakhouse Seafood
+menu575.txt American
+menu576.txt American Steakhouse Bar Pub
+menu577.txt Mediterranean Greek
+menu578.txt Italian
+menu579.txt American Pub
+menu580.txt Asian Thai
+menu581.txt French International
+menu582.txt Chinese Asian
+menu583.txt Asian Korean Vegetarian
+menu584.txt American Delicatessen
+menu585.txt Mexican Southwestern Latin Spanish
+menu586.txt American Steakhouse
+menu587.txt American Seafood
+menu588.txt American
+menu589.txt European Eastern-European Russian
+menu590.txt Russian Eastern-European
+menu591.txt Mexican Contemporary
+menu592.txt Italian
+menu593.txt American
+menu594.txt Italian
+menu595.txt Italian
+menu596.txt International
+menu597.txt Italian French Mediterranean Greek
+menu598.txt American Mediterranean
+menu599.txt Swiss European
+menu600.txt Italian Mediterranean
+menu601.txt Spanish Mediterranean
+menu602.txt Italian Bar Mediterranean Pub
+menu603.txt Kosher French Steakhouse
+menu604.txt Japanese Sushi Asian Seafood Vegetarian
+menu605.txt American Steakhouse Grill
+menu606.txt Italian Pizza
+menu607.txt Italian
+menu608.txt American
+menu609.txt American Diner
+menu610.txt Italian
+menu611.txt Italian International
+menu612.txt Italian
+menu613.txt Italian
+menu614.txt Italian
+menu615.txt French
+menu616.txt Asian Thai
+menu617.txt American
+menu618.txt Mediterranean Turkish Middle-Eastern
+menu619.txt Brazilian South-American
+menu620.txt Chinese Asian Malaysian
+menu621.txt Italian
+menu622.txt American Contemporary
+menu623.txt American Steakhouse
+menu624.txt American Pub Irish
+menu625.txt Chinese Asian
+menu626.txt American Contemporary Fusion
+menu627.txt Mexican
+menu628.txt Japanese Sushi Asian
+menu629.txt Asian Korean
+menu630.txt American Italian Greek
+menu631.txt Italian
+menu632.txt American
+menu633.txt German Austrian European
+menu634.txt Italian Pizza
+menu635.txt Wine-Bar
+menu636.txt International Vegetarian
+menu637.txt Asian Korean Barbecue
+menu638.txt German European Eastern-European Hungarian
+menu639.txt Seafood Spanish
+menu640.txt French
+menu641.txt Diner American
+menu642.txt American International
+menu643.txt American
+menu644.txt American Pub
+menu645.txt American
+menu646.txt Italian Wine-Bar
+menu647.txt Italian Pizza
+menu648.txt Italian Pizza Mediterranean
+menu649.txt American
+menu650.txt American Steakhouse Barbecue
+menu651.txt Italian
+menu652.txt Italian
+menu653.txt French Belgian European
+menu654.txt Asian Thai
+menu655.txt Mediterranean Spanish Delicatessen
+menu656.txt Pub American
+menu657.txt Italian Pizza American
+menu658.txt Mexican
+menu659.txt Mediterranean Lebanese
+menu660.txt American
+menu661.txt Middle-Eastern Persian Mediterranean
+menu662.txt Mediterranean Vegetarian Middle-Eastern Vegan
+menu663.txt Spanish
+menu664.txt European Spanish Portuguese
+menu665.txt Italian
+menu666.txt Moroccan Mediterranean
+menu667.txt Asian Korean Barbecue Wine-Bar
+menu668.txt American Barbecue
+menu669.txt Italian Pizza
+menu670.txt Italian
+menu671.txt Italian Pizza
+menu672.txt Italian American
+menu673.txt Mediterranean Middle-Eastern
+menu674.txt American Seafood
+menu675.txt American
+menu676.txt Spanish Steakhouse Seafood Vegetarian
+menu677.txt Italian Pizza
+menu678.txt American
+menu679.txt French
+menu680.txt Bar American Pub
+menu681.txt French American
+menu682.txt Asian Thai
+menu683.txt Seafood
+menu684.txt Italian Pizza
+menu685.txt American Seafood
+menu686.txt Pub American Gastropub
+menu687.txt Italian
+menu688.txt Asian Thai Indonesian Malaysian
+menu689.txt French
+menu690.txt Italian Pizza
+menu691.txt French
+menu692.txt Italian Pizza
+menu693.txt French American
+menu694.txt Japanese Sushi Asian
+menu695.txt Italian
+menu696.txt Italian Pizza
+menu697.txt Italian Mediterranean
+menu698.txt Mexican
+menu699.txt American
+menu700.txt Japanese Sushi Asian
+menu701.txt Pub American
+menu702.txt Indian
+menu703.txt Asian Vietnamese
+menu704.txt Italian Pizza
+menu705.txt American
+menu706.txt French
+menu707.txt Vegetarian Middle-Eastern Kosher
+menu708.txt Asian Korean
+menu709.txt Italian
+menu710.txt Italian International
+menu711.txt Italian Pizza
+menu712.txt Italian Pizza
+menu713.txt Barbecue American
+menu714.txt American
+menu715.txt Chinese Asian
+menu716.txt Italian
+menu717.txt American Pizza
+menu718.txt Italian Seafood
+menu719.txt Mediterranean Turkish Pizza Greek
+menu720.txt Mediterranean Turkish Greek
+menu721.txt Italian
+menu722.txt Italian
+menu723.txt French
+menu724.txt Italian Pizza
+menu725.txt French
+menu726.txt Steakhouse Wine-Bar Argentinean South-American
+menu727.txt Italian Pizza
+menu728.txt Italian Pizza Delicatessen
+menu729.txt American International
+menu730.txt Chinese Asian Vegetarian
+menu731.txt Asian
+menu732.txt American
+menu733.txt American Cafe
+menu734.txt French
+menu735.txt Chinese Asian
+menu736.txt American Fast-Food
+menu737.txt Indian
+menu738.txt Contemporary American
+menu739.txt Italian
+menu740.txt Mexican Southwestern
+menu741.txt Delicatessen
+menu742.txt Sushi Asian Latin Spanish Fusion
+menu743.txt Italian American
+menu744.txt Asian Indonesian
+menu745.txt French
+menu746.txt American Steakhouse International
+menu747.txt Italian
+menu748.txt American International
+menu749.txt American
+menu750.txt American Cafe
+menu751.txt Contemporary
+menu752.txt Chinese Japanese Sushi Asian
+menu753.txt Pub American Irish
+menu754.txt American
+menu755.txt Pub American Steakhouse Seafood
+menu756.txt Italian
+menu757.txt American
+menu758.txt American Healthy
+menu759.txt American
+menu760.txt French
+menu761.txt Mediterranean Lebanese Middle-Eastern
+menu762.txt Mexican
+menu763.txt Ethiopian African
+menu764.txt Kosher Mediterranean Middle-Eastern
+menu765.txt French
+menu766.txt Asian Korean
+menu767.txt American Steakhouse Seafood Barbecue
+menu768.txt Italian Mediterranean
+menu769.txt Italian Mediterranean
+menu770.txt Chinese Asian
+menu771.txt Irish Pub American
+menu772.txt Italian American International Contemporary
+menu773.txt Bar Pub
+menu774.txt Kosher American
+menu775.txt Japanese Sushi Asian
+menu776.txt Asian Chinese Vegan
+menu777.txt Italian
+menu778.txt American
+menu779.txt Kosher
+menu780.txt American
+menu781.txt American
+menu782.txt American
+menu783.txt Mediterranean Greek
+menu784.txt Italian Pizza Vegetarian
+menu785.txt Italian Pizza Mediterranean
+menu786.txt Peruvian Chinese Spanish South-American
+menu787.txt Mexican
+menu788.txt American
+menu789.txt American
+menu790.txt Italian
+menu791.txt American
+menu792.txt Japanese Asian
+menu793.txt Steakhouse Argentinean South-American
+menu794.txt Indian
+menu795.txt Italian American Pizza
+menu796.txt Japanese Barbecue Asian Korean Grill
+menu797.txt Italian
+menu798.txt American Bar Grill Pub
+menu799.txt Italian Pizza
+menu800.txt American Steakhouse Grill
+menu801.txt American Pub Barbecue
+menu802.txt Cafe
+menu803.txt Kosher American Steakhouse
+menu804.txt American
+menu805.txt Asian Spanish
+menu806.txt American Pub
+menu807.txt Italian Pizza
+menu808.txt Japanese Sushi Asian
+menu809.txt British Irish Seafood
+menu810.txt Bar Spanish Mediterranean
+menu811.txt Mexican
+menu812.txt Pub American Bar
+menu813.txt American
+menu814.txt American
+menu815.txt Pub American Irish Bar
+menu816.txt American
+menu817.txt Mediterranean Turkish Middle-Eastern
+menu818.txt Japanese Sushi Asian Seafood
+menu819.txt Persian Middle-Eastern
+menu820.txt Italian
+menu821.txt Indian
+menu822.txt Pub American Irish International
+menu823.txt Italian
+menu824.txt Bar Pub Australian Wine-Bar
+menu825.txt Turkish Mediterranean Middle-Eastern Persian Afghani
+menu826.txt French African Mediterranean
+menu827.txt American Steakhouse
+menu828.txt Pub American British Australian
+menu829.txt Asian Thai
+menu830.txt Italian
+menu831.txt Pub American
+menu832.txt Italian
+menu833.txt Mexican Spanish
+menu834.txt American
+menu835.txt American Cafe South-American
+menu836.txt American
+menu837.txt American Fast-Food
+menu838.txt Vegetarian Healthy
+menu839.txt Chinese Asian
+menu840.txt Japanese Sushi Asian
+menu841.txt Pub American Steakhouse Irish
+menu842.txt Japanese Asian
+menu843.txt Italian Pizza
+menu844.txt Bar American Pub Gastropub
+menu845.txt French
+menu846.txt Japanese Sushi Asian Contemporary
+menu847.txt Japanese Sushi Asian
+menu848.txt American
+menu849.txt Italian American Greek
+menu850.txt American Barbecue
+menu851.txt American
+menu852.txt Italian
+menu853.txt Indian
+menu854.txt Gastropub
+menu855.txt Chinese Asian
+menu856.txt Seafood
+menu857.txt Italian Pizza
+menu858.txt Italian Pizza
+menu859.txt Italian
+menu860.txt Japanese Sushi Asian
+menu861.txt American International
+menu862.txt Spanish
+menu863.txt Caribbean Spanish Cuban
+menu864.txt French
+menu865.txt Italian Pizza
+menu866.txt French American
+menu867.txt American Delicatessen
+menu868.txt Italian
+menu869.txt Pub
+menu870.txt Italian Pizza
+menu871.txt Mexican
+menu872.txt Japanese Asian Barbecue
+menu873.txt Pub
+menu874.txt Italian Pizza
+menu875.txt Italian
+menu876.txt American
+menu877.txt Italian
+menu878.txt Italian Pizza
+menu879.txt Italian Pizza
+menu880.txt Japanese Sushi Asian
+menu881.txt Italian Pizza
+menu882.txt Pub American Bar Gastropub
+menu883.txt French
+menu884.txt Italian
+menu885.txt Italian
+menu886.txt American
+menu887.txt Indian
+menu888.txt French
+menu889.txt Italian Pizza
+menu890.txt Asian Thai
+menu891.txt American
+menu892.txt Mexican Latin Spanish Contemporary South-American Central-American
+menu893.txt Italian Pizza
+menu894.txt American Pizza Delicatessen
+menu895.txt Italian
+menu896.txt Indian
+menu897.txt Italian Pizza
+menu898.txt French
+menu899.txt French Moroccan Mediterranean
+menu900.txt French
+menu901.txt American
+menu902.txt American
+menu903.txt American Soups Diner
+menu904.txt Italian
+menu905.txt Caribbean Jamaican
+menu906.txt Italian
+menu907.txt Middle-Eastern Persian
+menu908.txt Pub American
+menu909.txt Moroccan Mediterranean Vegetarian Middle-Eastern
+menu910.txt Pub American
+menu911.txt Japanese Sushi Asian
+menu912.txt American Pizza
+menu913.txt Italian Pizza
+menu914.txt Korean Asian
+menu915.txt French
+menu916.txt Indian
+menu917.txt American
+menu918.txt French American
+menu919.txt German American Austrian European
+menu920.txt Pub American Southwestern Gastropub
+menu921.txt Chinese Asian
+menu922.txt American Delicatessen
+menu923.txt Indian
+menu924.txt American Wine-Bar
+menu925.txt Mexican
+menu926.txt French
+menu927.txt American
+menu928.txt Italian
+menu929.txt Indian Asian
+menu930.txt German Austrian European
+menu931.txt Japanese Sushi Asian
+menu932.txt American Delicatessen Diner
+menu933.txt Japanese Sushi Asian
+menu934.txt American Steakhouse
+menu935.txt Italian Pizza
+menu936.txt Italian Pizza
+menu937.txt Asian Thai
+menu938.txt Mexican
+menu939.txt Japanese Sushi Asian
+menu940.txt French
+menu941.txt French
+menu942.txt Asian Korean Barbecue
+menu943.txt Mediterranean Wine-Bar Greek
+menu944.txt Japanese Sushi Asian Chinese
+menu945.txt American
+menu946.txt Chinese Asian
+menu947.txt Vegetarian Vegan
+menu948.txt French
+menu949.txt Japanese Sushi Asian
+menu950.txt American
+menu951.txt American Cafe European
+menu952.txt Pub American
+menu953.txt American International
+menu954.txt Spanish Caribbean Latin Cuban
+menu955.txt Chinese Asian
+menu956.txt American Brew-Pub Bar Pub
+menu957.txt French
+menu958.txt Italian Pizza
+menu959.txt Asian Vietnamese
+menu960.txt Italian
+menu961.txt Pub American
+menu962.txt Mediterranean European Greek Vegetarian Yugoslavian
+menu963.txt Pub American Irish Vegetarian
+menu964.txt Italian American Asian
+menu965.txt Italian Pizza
+menu966.txt American
+menu967.txt Italian Pizza
+menu968.txt American International
+menu969.txt American
+menu970.txt American
+menu971.txt Japanese Sushi Asian
+menu972.txt Italian
+menu973.txt Asian Vietnamese
+menu974.txt Bar Pub
+menu975.txt Japanese Asian Barbecue
+menu976.txt French
+menu977.txt Italian
+menu978.txt Japanese Sushi Asian
+menu979.txt Italian
+menu980.txt French Belgian European
+menu981.txt Italian
+menu982.txt Mexican
+menu983.txt Italian International
+menu984.txt American
+menu985.txt Italian
+menu986.txt Mediterranean Turkish
+menu987.txt Bar
+menu988.txt Chinese Asian
+menu989.txt American Mediterranean Greek Middle-Eastern
+menu990.txt American
+menu991.txt Italian
+menu992.txt Spanish
+menu993.txt Asian Thai
+menu994.txt Asian Thai
+menu995.txt Bar Pub American
+menu996.txt International
+menu997.txt Italian
+menu998.txt Mexican American Southwestern
+menu999.txt Asian Korean
+menu1000.txt Italian Pizza
+menu1001.txt Japanese Sushi Asian
+menu1002.txt Spanish Mediterranean Wine-Bar
+menu1003.txt Latin Spanish
+menu1004.txt Italian
+menu1005.txt Mexican
+menu1006.txt Japanese Asian Sushi
+menu1007.txt Japanese Sushi Asian
+menu1008.txt American Greek
+menu1009.txt Mexican
+menu1010.txt Italian
+menu1011.txt Italian
+menu1012.txt Latin Spanish
+menu1013.txt Chinese Asian
+menu1014.txt Italian Pizza
+menu1015.txt Cafe South-American Colombian
+menu1016.txt French
+menu1017.txt Italian Pizza
+menu1018.txt American Spanish
+menu1019.txt Mediterranean Spanish
+menu1020.txt Italian
+menu1021.txt Mediterranean Greek
+menu1022.txt Italian
+menu1023.txt Chinese Asian
+menu1024.txt American Irish Pub
+menu1025.txt Italian Pizza
+menu1026.txt Seafood
+menu1027.txt Mexican Caribbean Spanish Cuban
+menu1028.txt Mexican
+menu1029.txt French
+menu1030.txt Italian
+menu1031.txt European Scandinavian
+menu1032.txt Mediterranean Turkish Greek Middle-Eastern
+menu1033.txt American Steakhouse
+menu1034.txt American
+menu1035.txt Italian Mediterranean
+menu1036.txt Pub American Pizza
+menu1037.txt Mexican Latin
+menu1038.txt Italian
+menu1039.txt American
+menu1040.txt Asian Thai
+menu1041.txt Italian Pizza
+menu1042.txt Italian Mediterranean
+menu1043.txt Cafe European Czech
+menu1044.txt Pub Irish
+menu1045.txt Japanese Pizza Cafe Mediterranean Sushi Delicatessen
+menu1046.txt American Fast-Food
+menu1047.txt Steakhouse
+menu1048.txt Japanese Sushi Asian
+menu1049.txt Mexican
+menu1050.txt Italian Pizza
+menu1051.txt Peruvian South-American
+menu1052.txt Asian Vietnamese
+menu1053.txt Italian Mediterranean
+menu1054.txt Greek Diner American
+menu1055.txt Cafe
+menu1056.txt American International
+menu1057.txt Mediterranean Greek Seafood
+menu1058.txt American Vegetarian Healthy Vegan
+menu1059.txt Italian Pizza
+menu1060.txt American
+menu1061.txt Italian
+menu1062.txt American
+menu1063.txt Italian
+menu1064.txt French
+menu1065.txt American
+menu1066.txt American Pub
+menu1067.txt Italian Pizza
+menu1068.txt French
+menu1069.txt Italian Pizza
+menu1070.txt Italian
+menu1071.txt American Bar Grill Pub
+menu1072.txt Italian
+menu1073.txt American
+menu1074.txt Spanish
+menu1075.txt Asian Thai Japanese
+menu1076.txt British Pub
+menu1077.txt Pub
+menu1078.txt Mexican American Southwestern
+menu1079.txt Cafe
+menu1080.txt Italian Contemporary
+menu1081.txt Japanese Sushi Asian
+menu1082.txt Pub American
+menu1083.txt Asian Korean
+menu1084.txt American Contemporary
+menu1085.txt Italian American Contemporary
+menu1086.txt Spanish
+menu1087.txt American
+menu1088.txt Caribbean Cuban
+menu1089.txt Wine-Bar American
+menu1090.txt French American
+menu1091.txt American Vegetarian Kosher
+menu1092.txt American
+menu1093.txt Japanese Sushi Asian
+menu1094.txt Asian Thai
+menu1095.txt Italian Pizza
+menu1096.txt Japanese Asian
+menu1097.txt Irish Pub
+menu1098.txt British Scottish
+menu1099.txt American
+menu1100.txt Italian Seafood
+menu1101.txt Italian Pizza
+menu1102.txt Pub
+menu1103.txt Italian
+menu1104.txt French
+menu1105.txt Pub
+menu1106.txt French Mediterranean
+menu1107.txt Italian Pizza
+menu1108.txt Japanese Sushi Asian
+menu1109.txt Pub Irish
+menu1110.txt Ethiopian African
+menu1111.txt Italian
+menu1112.txt Bar European Wine-Bar
+menu1113.txt Spanish Mediterranean
+menu1114.txt Asian Chinese American
+menu1115.txt American
+menu1116.txt Contemporary Wine-Bar Asian Vietnamese
+menu1117.txt Italian
+menu1118.txt French Steakhouse
+menu1119.txt American
+menu1120.txt Chinese Asian Japanese Thai
+menu1121.txt American
+menu1122.txt Italian
+menu1123.txt Chinese Asian
+menu1124.txt Mexican
+menu1125.txt Spanish Mediterranean
+menu1126.txt Spanish
+menu1127.txt American
+menu1128.txt Spanish
+menu1129.txt Italian American
+menu1130.txt Italian
+menu1131.txt American Pub
+menu1132.txt Pizza Italian
+menu1133.txt American
+menu1134.txt Mexican
+menu1135.txt Italian Pizza
+menu1136.txt Italian Pizza
+menu1137.txt Wine-Bar Spanish
+menu1138.txt Mexican
+menu1139.txt American Cafe
+menu1140.txt Japanese Sushi Asian
+menu1141.txt Japanese Sushi Seafood
+menu1142.txt Mexican
+menu1143.txt Indian Asian
+menu1144.txt French
+menu1145.txt American Bar
+menu1146.txt Italian Pizza
+menu1147.txt Spanish
+menu1148.txt American International British
+menu1149.txt Asian Seafood Vietnamese
+menu1150.txt Indian
+menu1151.txt Japanese Sushi Asian
+menu1152.txt International
+menu1153.txt French
+menu1154.txt Pub American
+menu1155.txt Italian
+menu1156.txt Italian Mediterranean
+menu1157.txt American
+menu1158.txt Italian
+menu1159.txt Italian Pizza
+menu1160.txt Japanese Asian
+menu1161.txt Japanese Sushi Asian
+menu1162.txt Vegetarian
+menu1163.txt Italian
+menu1164.txt Asian Thai
+menu1165.txt Italian Pizza
+menu1166.txt Mediterranean Turkish
+menu1167.txt Irish Pub American
+menu1168.txt American
+menu1169.txt Pizza Cafe
+menu1170.txt Asian Thai
+menu1171.txt Mexican
+menu1172.txt Fast-Food Delicatessen Healthy
+menu1173.txt Latin Spanish
+menu1174.txt Asian Vietnamese Thai
+menu1175.txt Vegetarian Healthy
+menu1176.txt Italian
+menu1177.txt Pub American
+menu1178.txt Asian Thai
+menu1179.txt American
+menu1180.txt Italian Pizza
+menu1181.txt Pub American
+menu1182.txt Italian
+menu1183.txt Kosher
+menu1184.txt Italian American Pizza International European
+menu1185.txt Pub American Irish
+menu1186.txt Pizza
+menu1187.txt Italian Pizza
+menu1188.txt Asian Chinese Vegetarian
+menu1189.txt Japanese Sushi Asian
+menu1190.txt European
+menu1191.txt Chinese Asian Seafood Vegetarian
+menu1192.txt Brazilian South-American
+menu1193.txt Mexican
+menu1194.txt French
+menu1195.txt Chinese Asian
+menu1196.txt American
+menu1197.txt American
+menu1198.txt Steakhouse
+menu1199.txt Pub American
+menu1200.txt American Pub
+menu1201.txt Italian Wine-Bar
+menu1202.txt Italian Bar Pizza Pub
+menu1203.txt Mexican
+menu1204.txt American Delicatessen Diner
+menu1205.txt Indian
+menu1206.txt Pub Irish
+menu1207.txt Italian Pizza
+menu1208.txt German Pub
+menu1209.txt American Steakhouse Irish Delicatessen
+menu1210.txt Asian Thai
+menu1211.txt Japanese Sushi Asian Seafood
+menu1212.txt American
+menu1213.txt Italian
+menu1214.txt Mediterranean French Moroccan
+menu1215.txt Italian Pizza
+menu1216.txt Spanish
+menu1217.txt Japanese Sushi Asian Thai
+menu1218.txt Asian Filipino
+menu1219.txt French Cafe
+menu1220.txt Italian
+menu1221.txt Asian Thai
+menu1222.txt Italian
+menu1223.txt Cafe
+menu1224.txt Vegetarian Vegan
+menu1225.txt American Diner
+menu1226.txt French American
+menu1227.txt American
+menu1228.txt Bar Grill American Middle-Eastern
+menu1229.txt Chinese Asian
+menu1230.txt Asian Korean Japanese Barbecue
+menu1231.txt Italian
+menu1232.txt Indian
+menu1233.txt Spanish Mediterranean
+menu1234.txt Pizza Italian
+menu1235.txt Mexican
+menu1236.txt French Japanese Fast-Food
+menu1237.txt Italian
+menu1238.txt Italian
+menu1239.txt American
+menu1240.txt Italian
+menu1241.txt Chinese Asian
+menu1242.txt Wine-Bar
+menu1243.txt Italian Pizza
+menu1244.txt Pub
+menu1245.txt Spanish
+menu1246.txt Italian Pizza
+menu1247.txt Japanese Sushi Asian
+menu1248.txt American
+menu1249.txt Japanese Asian
+menu1250.txt Italian
+menu1251.txt Japanese Asian Sushi
+menu1252.txt French
+menu1253.txt Chinese Asian Malaysian
+menu1254.txt French
+menu1255.txt Mexican
+menu1256.txt Italian Pizza
+menu1257.txt American Pub
+menu1258.txt European Scandinavian
+menu1259.txt Mediterranean Turkish
+menu1260.txt Spanish
+menu1261.txt American
+menu1262.txt Italian Pizza
+menu1263.txt Indian
+menu1264.txt American
+menu1265.txt Italian Seafood
+menu1266.txt American Bar Barbecue Pub
+menu1267.txt German Austrian European
+menu1268.txt Mexican
+menu1269.txt Italian Pizza
+menu1270.txt Pub American Irish International
+menu1271.txt Italian
+menu1272.txt Pub American Irish
+menu1273.txt American Soups
+menu1274.txt Belgian European
+menu1275.txt Japanese Sushi Asian Seafood
+menu1276.txt Asian Thai
+menu1277.txt Italian
+menu1278.txt French American European
+menu1279.txt Italian Seafood
+menu1280.txt Mexican
+menu1281.txt Asian Thai
+menu1282.txt Chinese Asian
+menu1283.txt Italian
+menu1284.txt American Bar Pub
+menu1285.txt Italian Pizza
+menu1286.txt Italian
+menu1287.txt Italian Seafood
+menu1288.txt Italian
+menu1289.txt Japanese Asian
+menu1290.txt Italian Pizza
+menu1291.txt Indian Vegetarian
+menu1292.txt Japanese Sushi
+menu1293.txt American Fusion
+menu1294.txt Asian
+menu1295.txt Peruvian South-American
+menu1296.txt French
+menu1297.txt American
+menu1298.txt French
+menu1299.txt Mexican Caribbean Latin Spanish Cuban
+menu1300.txt Italian Pizza
+menu1301.txt French
+menu1302.txt Polish Russian Eastern-European Ukrainian
+menu1303.txt Italian
+menu1304.txt Japanese Sushi Asian
+menu1305.txt Vegetarian
+menu1306.txt Italian Pizza
+menu1307.txt Japanese Asian Vegetarian Vegan
+menu1308.txt Italian
+menu1309.txt International Mediterranean
+menu1310.txt Italian
+menu1311.txt Mediterranean
+menu1312.txt Italian
+menu1313.txt Turkish Middle-Eastern Afghani
+menu1314.txt Wine-Bar American
+menu1315.txt Pub American Irish Bar
+menu1316.txt Mediterranean Middle-Eastern Israeli
+menu1317.txt Italian Wine-Bar
+menu1318.txt Japanese Sushi Asian
+menu1319.txt International
+menu1320.txt Asian Seafood Malaysian
+menu1321.txt Italian Pizza Kosher
+menu1322.txt Italian
+menu1323.txt Mediterranean Turkish
+menu1324.txt American
+menu1325.txt American
+menu1326.txt Italian
+menu1327.txt Pub American Irish Bar International
+menu1328.txt American Delicatessen
+menu1329.txt Diner American Delicatessen Kosher
+menu1330.txt Italian Pizza
+menu1331.txt Chinese Asian
+menu1332.txt Pub American Irish
+menu1333.txt American
+menu1334.txt Italian American Pizza
+menu1335.txt American
+menu1336.txt Mexican
+menu1337.txt American Middle-Eastern Kosher
+menu1338.txt Italian Seafood
+menu1339.txt French
+menu1340.txt American
+menu1341.txt Asian Vietnamese
+menu1342.txt Italian Pizza
+menu1343.txt American Contemporary
+menu1344.txt Japanese Sushi Asian
+menu1345.txt Italian Argentinean South-American
+menu1346.txt Cafe
+menu1347.txt Asian Thai
+menu1348.txt French Mediterranean
+menu1349.txt Italian Pizza
+menu1350.txt French
+menu1351.txt Delicatessen Soups
+menu1352.txt Japanese Sushi Grill
+menu1353.txt Japanese Sushi Asian
+menu1354.txt Italian
+menu1355.txt American
+menu1356.txt Mediterranean Turkish
+menu1357.txt American
+menu1358.txt Asian Vietnamese
+menu1359.txt Japanese Sushi Asian
+menu1360.txt American
+menu1361.txt American
+menu1362.txt Italian American
+menu1363.txt Mexican Vegetarian Vegan
+menu1364.txt Chinese Asian
+menu1365.txt American
+menu1366.txt Chinese Asian
+menu1367.txt Asian Thai
+menu1368.txt Asian Vietnamese
+menu1369.txt Mexican Latin Spanish
+menu1370.txt Indian Latin Spanish Asian
+menu1371.txt French
+menu1372.txt Chinese Asian
+menu1373.txt Italian Steakhouse
+menu1374.txt Japanese Asian Italian
+menu1375.txt American
+menu1376.txt British
+menu1377.txt American Pizza
+menu1378.txt Japanese Sushi Asian
+menu1379.txt Chinese Asian
+menu1380.txt American Bar Pub Gastropub
+menu1381.txt French
+menu1382.txt Asian Thai
+menu1383.txt Chinese Asian Seafood
+menu1384.txt Italian Mediterranean
+menu1385.txt Steakhouse
+menu1386.txt American Steakhouse
+menu1387.txt French
+menu1388.txt Chinese Asian
+menu1389.txt Caribbean Cuban
+menu1390.txt Italian
+menu1391.txt Italian
+menu1392.txt Pub American
+menu1393.txt Pub
+menu1394.txt American
+menu1395.txt Italian Pizza
+menu1396.txt Italian Pizza
+menu1397.txt Japanese Sushi
+menu1398.txt Japanese Sushi Asian Seafood
+menu1399.txt French
+menu1400.txt American
+menu1401.txt Delicatessen
+menu1402.txt Asian Indian Sri-Lankan
+menu1403.txt Indian
+menu1404.txt Japanese Asian
+menu1405.txt Chinese Asian
+menu1406.txt Spanish
+menu1407.txt American Barbecue
+menu1408.txt Pizza
+menu1409.txt American
+menu1410.txt Chinese Asian
+menu1411.txt Chinese Asian
+menu1412.txt Diner
+menu1413.txt Japanese Indian Asian
+menu1414.txt Indian
+menu1415.txt Contemporary
+menu1416.txt French
+menu1417.txt Italian Pizza
+menu1418.txt Pub
+menu1419.txt Asian Vietnamese
+menu1420.txt Spanish Mediterranean
+menu1421.txt French American International
+menu1422.txt American
+menu1423.txt Japanese Asian
+menu1424.txt Asian Chinese Japanese Sushi Fusion
+menu1425.txt Pizza
+menu1426.txt Mediterranean Middle-Eastern Kosher
+menu1427.txt Japanese Sushi Asian
+menu1428.txt Italian Pizza
+menu1429.txt American International
+menu1430.txt Italian
+menu1431.txt Asian Thai
+menu1432.txt Mediterranean Kosher
+menu1433.txt Japanese Sushi Asian
+menu1434.txt Japanese
+menu1435.txt American
+menu1436.txt Japanese Sushi Asian
+menu1437.txt American
+menu1438.txt Japanese Sushi Asian
+menu1439.txt African
+menu1440.txt Chinese Caribbean Cuban
+menu1441.txt Turkish Mediterranean
+menu1442.txt Pizza Italian
+menu1443.txt American Seafood
+menu1444.txt Japanese Asian Indian Fast-Food
+menu1445.txt Chinese Asian Korean Fusion
+menu1446.txt Asian Thai
+menu1447.txt Mexican
+menu1448.txt Japanese Sushi Asian
+menu1449.txt Asian Japanese Vegetarian Vegan
+menu1450.txt Mexican Pub
+menu1451.txt Japanese Sushi Asian
+menu1452.txt Pub American Irish British
+menu1453.txt American
+menu1454.txt Chinese Asian
+menu1455.txt Bar Pub
+menu1456.txt Italian Vegetarian
+menu1457.txt Contemporary
+menu1458.txt American
+menu1459.txt American International
+menu1460.txt Italian Wine-Bar
+menu1461.txt American
+menu1462.txt Italian
+menu1463.txt Spanish
+menu1464.txt American Bar Pub
+menu1465.txt Bar Pub Wine-Bar
+menu1466.txt French American Mediterranean
+menu1467.txt Asian Thai
+menu1468.txt American
+menu1469.txt Italian Pizza Mediterranean
+menu1470.txt Kosher
+menu1471.txt American
+menu1472.txt Japanese Sushi Asian
+menu1473.txt Pizza Italian
+menu1474.txt American
+menu1475.txt American
+menu1476.txt Asian Thai
+menu1477.txt Asian Spanish
+menu1478.txt Asian Korean
+menu1479.txt Pizza Italian
+menu1480.txt Italian Pizza
+menu1481.txt Sushi Asian Thai Japanese
+menu1482.txt American Steakhouse
+menu1483.txt Mexican
+menu1484.txt Mediterranean Middle-Eastern
+menu1485.txt Kosher Delicatessen
+menu1486.txt American Barbecue
+menu1487.txt American Pizza
+menu1488.txt Italian Pizza
+menu1489.txt Barbecue
+menu1490.txt Caribbean Cuban
+menu1491.txt Indian
+menu1492.txt French American Seafood
+menu1493.txt Seafood Contemporary Austrian Wine-Bar
+menu1494.txt Chinese Asian
+menu1495.txt Mexican
+menu1496.txt German
+menu1497.txt American
+menu1498.txt Japanese Asian
+menu1499.txt American Pub
+menu1500.txt American
+menu1501.txt Mexican Southwestern
+menu1502.txt Argentinean South-American
+menu1503.txt Ethiopian African
+menu1504.txt Italian
+menu1505.txt Italian
+menu1506.txt American
+menu1507.txt Mexican
+menu1508.txt Italian
+menu1509.txt Asian Thai
+menu1510.txt Indian
+menu1511.txt Caribbean Spanish Cuban
+menu1512.txt Pub American Irish British
+menu1513.txt American Pub
+menu1514.txt Italian
+menu1515.txt American
+menu1516.txt Spanish Mediterranean
+menu1517.txt African Ethiopian
+menu1518.txt American Pub
+menu1519.txt Japanese Sushi Asian
+menu1520.txt American
+menu1521.txt American
+menu1522.txt Italian
+menu1523.txt Asian Japanese Korean Vietnamese Soups
+menu1524.txt American
+menu1525.txt French American
+menu1526.txt Italian Pizza
+menu1527.txt Sushi Asian Japanese
+menu1528.txt American
+menu1529.txt American Spanish
+menu1530.txt German
+menu1531.txt Peruvian South-American Chinese
+menu1532.txt Pub American
+menu1533.txt Japanese Pizza Sushi Delicatessen
+menu1534.txt Asian Korean
+menu1535.txt Japanese Sushi Asian
+menu1536.txt Asian Pacific-Rim
+menu1537.txt African Ethiopian
+menu1538.txt Steakhouse
+menu1539.txt Asian Burmese
+menu1540.txt Kosher
+menu1541.txt Chinese Asian Vegetarian Fusion Vegan
+menu1542.txt Japanese Asian
+menu1543.txt Italian
+menu1544.txt Asian Thai Fusion
+menu1545.txt Mexican Spanish
+menu1546.txt Mediterranean Greek Italian
+menu1547.txt Japanese Sushi Asian
+menu1548.txt American
+menu1549.txt Barbecue
+menu1550.txt American
+menu1551.txt Kosher Delicatessen
+menu1552.txt Chinese Asian
+menu1553.txt Wine-Bar Mediterranean
+menu1554.txt Pub
+menu1555.txt Spanish Wine-Bar
+menu1556.txt American
+menu1557.txt Mexican Seafood
+menu1558.txt Contemporary
+menu1559.txt French
+menu1560.txt Mediterranean Middle-Eastern Kosher
+menu1561.txt Seafood
+menu1562.txt Mexican
+menu1563.txt Indian Middle-Eastern Pakistani
+menu1564.txt Italian Pizza
+menu1565.txt Mediterranean
+menu1566.txt Italian Pizza
+menu1567.txt Middle-Eastern Pakistani
+menu1568.txt Caribbean Spanish Cuban
+menu1569.txt American
+menu1570.txt American International
+menu1571.txt Asian Thai
+menu1572.txt American Bar Pub Gastropub
+menu1573.txt American
+menu1574.txt French
+menu1575.txt Spanish
+menu1576.txt French
+menu1577.txt Mediterranean Vegetarian Kosher
+menu1578.txt Japanese Sushi Asian
+menu1579.txt Chinese Asian Vegetarian Vegan
+menu1580.txt Mediterranean Greek
+menu1581.txt Seafood
+menu1582.txt Italian Pizza
+menu1583.txt Seafood
+menu1584.txt Indian
+menu1585.txt American
+menu1586.txt Italian
+menu1587.txt Chinese Asian
+menu1588.txt Wine-Bar Bar Pub
+menu1589.txt American
+menu1590.txt Mexican
+menu1591.txt Mexican Southwestern
+menu1592.txt Mediterranean Middle-Eastern
+menu1593.txt Italian
+menu1594.txt Chinese Asian
+menu1595.txt Japanese Asian Steakhouse
+menu1596.txt Italian
+menu1597.txt Italian
+menu1598.txt American Pub
+menu1599.txt Japanese Asian Barbecue
+menu1600.txt Italian
+menu1601.txt Asian Thai
+menu1602.txt American Pub
+menu1603.txt Chinese Asian
+menu1604.txt Italian
+menu1605.txt Japanese Sushi Asian Seafood
+menu1606.txt Asian Thai
+menu1607.txt Mexican
+menu1608.txt Mexican
+menu1609.txt Asian Thai Vegetarian
+menu1610.txt Italian Pizza
+menu1611.txt British
+menu1612.txt American Pub
+menu1613.txt Steakhouse
+menu1614.txt Italian Wine-Bar
+menu1615.txt Japanese Sushi American
+menu1616.txt Italian
+menu1617.txt American Bar Pub
+menu1618.txt Swiss European Wine-Bar
+menu1619.txt Mediterranean Spanish
+menu1620.txt Italian Pizza
+menu1621.txt Irish British
+menu1622.txt Italian Pizza
+menu1623.txt Indian
+menu1624.txt Asian Thai Vegetarian Vegan
+menu1625.txt Mexican
+menu1626.txt Japanese Asian
+menu1627.txt Mexican
+menu1628.txt Asian Thai
+menu1629.txt Mediterranean Middle-Eastern Kosher Israeli
+menu1630.txt American
+menu1631.txt Pub American
+menu1632.txt Chinese Asian
+menu1633.txt Italian Seafood Pizza
+menu1634.txt Spanish Mexican
+menu1635.txt French
+menu1636.txt American
+menu1637.txt American Bar Pub
+menu1638.txt French
+menu1639.txt Mexican
+menu1640.txt Irish Pub
+menu1641.txt Italian Seafood
+menu1642.txt Mediterranean Middle-Eastern Kosher
+menu1643.txt American International Contemporary
+menu1644.txt Asian Thai Japanese Sushi
+menu1645.txt Asian Thai
+menu1646.txt Spanish
+menu1647.txt French
+menu1648.txt French Mediterranean Spanish
+menu1649.txt American Irish Delicatessen Pub
+menu1650.txt American
+menu1651.txt American
+menu1652.txt Italian
+menu1653.txt Italian
+menu1654.txt Asian Chinese Thai Malaysian
+menu1655.txt Italian Pizza
+menu1656.txt American
+menu1657.txt Japanese
+menu1658.txt Pub
+menu1659.txt Asian Thai Chinese
+menu1660.txt Middle-Eastern Persian Afghani
+menu1661.txt Seafood
+menu1662.txt Chinese Asian
+menu1663.txt American Contemporary Wine-Bar
+menu1664.txt Indian
+menu1665.txt American
+menu1666.txt Chinese Asian
+menu1667.txt Peruvian Spanish South-American
+menu1668.txt Italian Mexican
+menu1669.txt American
+menu1670.txt Steakhouse
+menu1671.txt Indian
+menu1672.txt Sushi Asian Japanese
+menu1673.txt American Greek Diner
+menu1674.txt Kosher Delicatessen
+menu1675.txt Caribbean Latin Spanish Cuban
+menu1676.txt Asian Thai
+menu1677.txt Japanese Sushi Asian
+menu1678.txt Wine-Bar Bar Pub
+menu1679.txt American
+menu1680.txt American International
+menu1681.txt Mexican
+menu1682.txt Pub American
+menu1683.txt American
+menu1684.txt Italian Pizza
+menu1685.txt Filipino Asian
+menu1686.txt Sushi Asian Chinese
+menu1687.txt Italian American
+menu1688.txt Mediterranean Turkish Middle-Eastern
+menu1689.txt Mexican
+menu1690.txt Chinese Asian
+menu1691.txt Chinese Asian
+menu1692.txt Spanish
+menu1693.txt Chinese Asian
+menu1694.txt Japanese
+menu1695.txt Spanish
+menu1696.txt Mediterranean Pizza Middle-Eastern
+menu1697.txt American
+menu1698.txt Japanese Sushi
+menu1699.txt International
+menu1700.txt Mexican
+menu1701.txt Kosher Italian Pizza
+menu1702.txt Chinese International
+menu1703.txt American
+menu1704.txt Italian
+menu1705.txt Japanese Sushi Asian Mexican Fusion
+menu1706.txt Wine-Bar
+menu1707.txt Chinese Asian
+menu1708.txt Pizza
+menu1709.txt Sushi Asian Japanese
+menu1710.txt American
+menu1711.txt American Mediterranean
+menu1712.txt Steakhouse
+menu1713.txt Italian American
+menu1714.txt French
+menu1715.txt Japanese Sushi Asian
+menu1716.txt Mediterranean Kosher Turkish Middle-Eastern
+menu1717.txt American
+menu1718.txt Russian
+menu1719.txt African Seafood Fusion
+menu1720.txt Italian
+menu1721.txt Japanese Bar Pub Fusion
+menu1722.txt American
+menu1723.txt Asian Indian Fusion
+menu1724.txt Japanese Sushi Asian
+menu1725.txt Japanese Sushi
+menu1726.txt Japanese Asian
+menu1727.txt Italian
+menu1728.txt Italian Pizza American
+menu1729.txt Latin Spanish Venezuelan South-American
+menu1730.txt Pub
+menu1731.txt American Cafe
+menu1732.txt Italian Vegetarian
+menu1733.txt Japanese Sushi Asian
+menu1734.txt Middle-Eastern Persian Bar Pub
+menu1735.txt American Pizza Contemporary
+menu1736.txt Mediterranean Greek
+menu1737.txt French
+menu1738.txt Middle-Eastern Afghani
+menu1739.txt American Southwestern
+menu1740.txt American
+menu1741.txt Asian Filipino
+menu1742.txt Pub American
+menu1743.txt Spanish Bar Pub Wine-Bar
+menu1744.txt Italian Pizza
+menu1745.txt Italian
+menu1746.txt American
+menu1747.txt American Diner
+menu1748.txt Italian
+menu1749.txt Japanese Sushi Asian Vegetarian
+menu1750.txt American Barbecue
+menu1751.txt International
+menu1752.txt American
+menu1753.txt American Pub
+menu1754.txt Israeli
+menu1755.txt Italian Pizza Vegetarian
+menu1756.txt Mexican
+menu1757.txt Asian Vietnamese
+menu1758.txt Healthy
+menu1759.txt Japanese Sushi Asian
+menu1760.txt Pizza Delicatessen
+menu1761.txt American Delicatessen Diner
+menu1762.txt Japanese Asian
+menu1763.txt Latin Spanish
+menu1764.txt Sushi Asian
+menu1765.txt Wine-Bar
+menu1766.txt Italian
+menu1767.txt Spanish
+menu1768.txt American
+menu1769.txt Mediterranean
+menu1770.txt American
+menu1771.txt Mediterranean Greek
+menu1772.txt Mexican Japanese American Healthy
+menu1773.txt Italian
+menu1774.txt Spanish
+menu1775.txt Asian Korean
+menu1776.txt Italian Pizza
+menu1777.txt American
+menu1778.txt Indian
+menu1779.txt Asian Thai
+menu1780.txt Japanese Asian
+menu1781.txt American
+menu1782.txt Italian
+menu1783.txt Mexican
+menu1784.txt Mexican Pub
+menu1785.txt Mediterranean Lebanese Middle-Eastern
+menu1786.txt Kosher Italian
+menu1787.txt Thai
+menu1788.txt International Fusion
+menu1789.txt Chinese Asian
+menu1790.txt American
+menu1791.txt Italian Pizza
+menu1792.txt Middle-Eastern Persian Japanese Mediterranean Sushi Kosher
+menu1793.txt American
+menu1794.txt Russian
+menu1795.txt Italian Seafood
+menu1796.txt Italian
+menu1797.txt American
+menu1798.txt Greek
+menu1799.txt Sushi Japanese
+menu1800.txt Indian Vegetarian
+menu1801.txt International Wine-Bar
+menu1802.txt Asian Thai
+menu1803.txt American Latin Spanish
+menu1804.txt Mediterranean European Spanish Portuguese
+menu1805.txt Japanese Sushi
+menu1806.txt Italian
+menu1807.txt Middle-Eastern Afghani
+menu1808.txt Italian Pizza
+menu1809.txt Japanese
+menu1810.txt Italian Pizza
+menu1811.txt American Pub
+menu1812.txt Chinese Asian
+menu1813.txt Sushi Japanese
+menu1814.txt Asian Thai Japanese Sushi
+menu1815.txt Vegetarian
+menu1816.txt Asian Thai
+menu1817.txt Japanese Asian
+menu1818.txt Pub American Pizza
+menu1819.txt Japanese Asian
+menu1820.txt Bar Pub Wine-Bar
+menu1821.txt Asian Korean Barbecue
+menu1822.txt Japanese American Sushi
+menu1823.txt American Pub
+menu1824.txt Asian Thai
+menu1825.txt Pizza
+menu1826.txt Mexican
+menu1827.txt Mexican Spanish
+menu1828.txt Italian
+menu1829.txt American
+menu1830.txt Chinese Asian
+menu1831.txt Cafe Wine-Bar
+menu1832.txt Italian
+menu1833.txt Chinese Asian
+menu1834.txt Chinese Asian
+menu1835.txt Chinese Asian
+menu1836.txt Japanese Sushi Kosher Steakhouse
+menu1837.txt Mexican
+menu1838.txt Spanish
+menu1839.txt French American
+menu1840.txt Mexican Pizza Cafe Vegetarian
+menu1841.txt Chinese Asian
+menu1842.txt Kosher Japanese Vegetarian
+menu1843.txt Italian
+menu1844.txt Chinese Asian Thai
+menu1845.txt French Belgian European
+menu1846.txt Mexican
+menu1847.txt Diner
+menu1848.txt American Latin Spanish
+menu1849.txt Japanese Asian
+menu1850.txt American
+menu1851.txt Asian Chinese Thai Vegetarian Fusion Vegan
+menu1852.txt Italian Pizza
+menu1853.txt Pub
+menu1854.txt American
+menu1855.txt Japanese Sushi
+menu1856.txt Mexican
+menu1857.txt Italian
+menu1858.txt French
+menu1859.txt American
+menu1860.txt American Bar Pub
+menu1861.txt American
+menu1862.txt Asian Thai
+menu1863.txt Sushi Japanese Seafood
+menu1864.txt Japanese Sushi Asian
+menu1865.txt American
+menu1866.txt Japanese Asian
+menu1867.txt Japanese Sushi Asian
+menu1868.txt Mediterranean Turkish Middle-Eastern
+menu1869.txt Italian
+menu1870.txt Chinese Asian
+menu1871.txt Indian Pakistani
+menu1872.txt American
+menu1873.txt American Bar Pub
+menu1874.txt Chinese Asian
+menu1875.txt American Pub
+menu1876.txt Japanese Sushi
+menu1877.txt Italian
+menu1878.txt Italian
+menu1879.txt American Steakhouse
+menu1880.txt Mediterranean Lebanese Middle-Eastern
+menu1881.txt Italian
+menu1882.txt Sushi Asian Japanese
+menu1883.txt American Bar Pub
+menu1884.txt Middle-Eastern
+menu1885.txt American
+menu1886.txt American Contemporary
+menu1887.txt American Contemporary
+menu1888.txt American
+menu1889.txt Italian Pizza
+menu1890.txt Chinese Asian
+menu1891.txt American International
+menu1892.txt Fast-Food
+menu1893.txt Chinese Asian
+menu1894.txt American Bar Pub Gastropub
+menu1895.txt Italian American Mediterranean
+menu1896.txt Italian French Mediterranean
+menu1897.txt American Greek Delicatessen
+menu1898.txt American
+menu1899.txt French
+menu1900.txt Pub American Irish
+menu1901.txt Italian Pizza
+menu1902.txt Vegetarian
+menu1903.txt Chinese Asian
+menu1904.txt Diner Healthy American Greek
+menu1905.txt International
+menu1906.txt Japanese Sushi Asian
+menu1907.txt Mediterranean Greek Middle-Eastern
+menu1908.txt Indian
+menu1909.txt French Pub Gastropub
+menu1910.txt Italian Pizza
+menu1911.txt Indian
+menu1912.txt American
+menu1913.txt French
+menu1914.txt Kosher
+menu1915.txt American
+menu1916.txt Italian Pizza
+menu1917.txt French Belgian European
+menu1918.txt American
+menu1919.txt Italian
+menu1920.txt Japanese Sushi Asian
+menu1921.txt Italian Kosher
+menu1922.txt Asian Thai
+menu1923.txt Italian
+menu1924.txt American
+menu1925.txt Italian Pizza
+menu1926.txt Italian
+menu1927.txt Italian Wine-Bar
+menu1928.txt Japanese Sushi
+menu1929.txt Asian Thai
+menu1930.txt Japanese Sushi Asian
+menu1931.txt Italian
+menu1932.txt American
+menu1933.txt Italian Pizza
+menu1934.txt Chinese Asian
+menu1935.txt Caribbean Spanish
+menu1936.txt European Hungarian
+menu1937.txt Italian Pizza
+menu1938.txt Italian
+menu1939.txt American
+menu1940.txt American Cafe
+menu1941.txt Italian Pizza
+menu1942.txt American Irish Pub
+menu1943.txt Spanish Wine-Bar
+menu1944.txt Asian Thai
+menu1945.txt Seafood
+menu1946.txt Mexican
+menu1947.txt Barbecue American
+menu1948.txt Italian
+menu1949.txt Healthy
+menu1950.txt Chinese Japanese Sushi
+menu1951.txt Indian Vegetarian
+menu1952.txt Japanese Pizza Cafe Delicatessen
+menu1953.txt American
+menu1954.txt Mexican
+menu1955.txt International Vietnamese
+menu1956.txt Italian
+menu1957.txt Kosher American
+menu1958.txt Mediterranean Turkish Vegetarian
+menu1959.txt Sushi Japanese
+menu1960.txt Mexican American
+menu1961.txt Japanese Fast-Food
+menu1962.txt American
+menu1963.txt Indian Asian
+menu1964.txt American Wine-Bar
+menu1965.txt American
+menu1966.txt Pub American
+menu1967.txt Brazilian South-American
+menu1968.txt Latin Spanish
+menu1969.txt Thai
+menu1970.txt Asian Thai
+menu1971.txt Chinese Asian Thai
+menu1972.txt Japanese Sushi Asian
+menu1973.txt Greek Middle-Eastern Kosher
+menu1974.txt American
+menu1975.txt Mediterranean Healthy
+menu1976.txt International
+menu1977.txt Kosher
+menu1978.txt Mexican Spanish
+menu1979.txt Mexican
+menu1980.txt Italian
+menu1981.txt Brazilian South-American
+menu1982.txt Wine-Bar
+menu1983.txt American
+menu1984.txt American Delicatessen
+menu1985.txt Italian
+menu1986.txt Italian
+menu1987.txt Kosher Steakhouse
+menu1988.txt Italian Pizza
+menu1989.txt Mexican
+menu1990.txt Japanese
+menu1991.txt Asian Korean
+menu1992.txt Mexican
+menu1993.txt Mediterranean
+menu1994.txt Mexican
+menu1995.txt Barbecue Asian Korean Japanese
+menu1996.txt Italian
+menu1997.txt American Mediterranean
+menu1998.txt Australian
+menu1999.txt Chinese Japanese Sushi Asian Thai Korean
+menu2000.txt Kosher Mediterranean Middle-Eastern
+menu2001.txt Spanish
+menu2002.txt Moroccan Mediterranean Middle-Eastern
+menu2003.txt Italian
+menu2004.txt Chinese Asian Vietnamese
+menu2005.txt Thai
+menu2006.txt Japanese Sushi Asian
+menu2007.txt American
+menu2008.txt Indian
+menu2009.txt American
+menu2010.txt Japanese Sushi Asian
+menu2011.txt Italian
+menu2012.txt American
+menu2013.txt Italian Pizza
+menu2014.txt Moroccan Mediterranean Middle-Eastern
+menu2015.txt Chinese Asian
+menu2016.txt Chinese Asian Thai
+menu2017.txt Pub American
+menu2018.txt Chinese Asian
+menu2019.txt Pizza Italian
+menu2020.txt American Pub
+menu2021.txt American Barbecue
+menu2022.txt Italian Pizza
+menu2023.txt Wine-Bar
+menu2024.txt Sushi Japanese
+menu2025.txt Indian
+menu2026.txt Sushi Japanese
+menu2027.txt American Bar
+menu2028.txt Chinese American Asian
+menu2029.txt Chinese Asian
+menu2030.txt Italian
+menu2031.txt American
+menu2032.txt Mexican
+menu2033.txt Indian
+menu2034.txt American
+menu2035.txt Italian Mediterranean
+menu2036.txt Steakhouse Barbecue
+menu2037.txt Chinese Asian
+menu2038.txt American
+menu2039.txt American
+menu2040.txt Spanish
+menu2041.txt Japanese Sushi
+menu2042.txt Chinese Asian
+menu2043.txt American
+menu2044.txt Japanese
+menu2045.txt Italian
+menu2046.txt Barbecue
+menu2047.txt Chinese Asian
+menu2048.txt Italian Pizza
+menu2049.txt Chinese Asian
+menu2050.txt American
+menu2051.txt German
+menu2052.txt Italian
+menu2053.txt Italian American
+menu2054.txt Middle-Eastern
+menu2055.txt Japanese Asian
+menu2056.txt Wine-Bar Italian French Spanish
+menu2057.txt Indian
+menu2058.txt American
+menu2059.txt Mediterranean Israeli
+menu2060.txt American Pub
+menu2061.txt Chinese Asian
+menu2062.txt Japanese Sushi
+menu2063.txt American Seafood
+menu2064.txt Steakhouse
+menu2065.txt Chinese
+menu2066.txt Mexican Caribbean Spanish
+menu2067.txt Chinese Asian Seafood
+menu2068.txt Contemporary
+menu2069.txt Sushi
+menu2070.txt Italian
+menu2071.txt Asian
+menu2072.txt Pub American Bar
+menu2073.txt American Seafood Diner
+menu2074.txt Chinese Asian
+menu2075.txt Italian Wine-Bar
+menu2076.txt Caribbean Cuban
+menu2077.txt French Cafe Diner
+menu2078.txt Thai
+menu2079.txt Chinese Asian
+menu2080.txt Italian
+menu2081.txt Indian
+menu2082.txt American Seafood Vegetarian
+menu2083.txt American Diner
+menu2084.txt Caribbean
+menu2085.txt American
+menu2086.txt American
+menu2087.txt American
+menu2088.txt American British
+menu2089.txt American South-American Central-American
+menu2090.txt American
+menu2091.txt Italian Pizza
+menu2092.txt American
+menu2093.txt Italian Pizza
+menu2094.txt American Diner
+menu2095.txt Chinese Asian
+menu2096.txt Italian American Pizza
+menu2097.txt Chinese Asian Vietnamese
+menu2098.txt Italian
+menu2099.txt American
+menu2100.txt Italian
+menu2101.txt American
+menu2102.txt Mediterranean
+menu2103.txt Italian
+menu2104.txt American Pub
+menu2105.txt American Delicatessen
+menu2106.txt Moroccan Mediterranean
+menu2107.txt Japanese Sushi
+menu2108.txt Chinese Asian
+menu2109.txt American
+menu2110.txt American Contemporary
+menu2111.txt American Contemporary
+menu2112.txt American
+menu2113.txt Italian Pizza
+menu2114.txt Chinese Asian
+menu2115.txt American International
+menu2116.txt Fast-Food
+menu2117.txt Chinese Asian
+menu2118.txt American Bar Pub Gastropub
+menu2119.txt Italian American Mediterranean
+menu2120.txt Italian French Mediterranean
+menu2121.txt American Greek Delicatessen
+menu2122.txt American
+menu2123.txt French
+menu2124.txt Pub American Irish
+menu2125.txt Italian Pizza
+menu2126.txt Vegetarian
+menu2127.txt Chinese Asian
+menu2128.txt Diner Healthy American Greek
+menu2129.txt International
+menu2130.txt Japanese Sushi Asian
+menu2131.txt Mediterranean Greek Middle-Eastern
+menu2132.txt Indian
+menu2133.txt French Pub Gastropub
+menu2134.txt Italian Pizza
+menu2135.txt Indian
+menu2136.txt American
+menu2137.txt French
+menu2138.txt Kosher
+menu2139.txt American
+menu2140.txt Italian Pizza
+menu2141.txt French Belgian European
+menu2142.txt American
+menu2143.txt Italian
+menu2144.txt Japanese Sushi Asian
+menu2145.txt Italian Kosher
+menu2146.txt Asian Thai
+menu2147.txt Italian
+menu2148.txt American
+menu2149.txt Italian Pizza
+menu2150.txt Italian
+menu2151.txt Italian Wine-Bar
+menu2152.txt Japanese Sushi
+menu2153.txt Asian Thai
+menu2154.txt Japanese Sushi Asian
+menu2155.txt Italian
+menu2156.txt American
+menu2157.txt Italian Pizza
+menu2158.txt Chinese Asian
+menu2159.txt Caribbean Spanish
+menu2160.txt European Hungarian
+menu2161.txt Italian Pizza
+menu2162.txt Italian
+menu2163.txt American
+menu2164.txt American Cafe
+menu2165.txt Italian Pizza
+menu2166.txt American Irish Pub
+menu2167.txt Spanish Wine-Bar
+menu2168.txt Asian Thai
+menu2169.txt Seafood
+menu2170.txt Mexican
+menu2171.txt Barbecue American
+menu2172.txt Italian
+menu2173.txt Healthy
+menu2174.txt Chinese Japanese Sushi
+menu2175.txt Indian Vegetarian
+menu2176.txt Japanese Pizza Cafe Delicatessen
+menu2177.txt American
+menu2178.txt Mexican
+menu2179.txt International Vietnamese
+menu2180.txt Italian
+menu2181.txt Kosher American
+menu2182.txt Mediterranean Turkish Vegetarian
+menu2183.txt Sushi Japanese
+menu2184.txt Mexican American
+menu2185.txt Japanese Fast-Food
+menu2186.txt American
+menu2187.txt Indian Asian
+menu2188.txt American Wine-Bar
+menu2189.txt American
+menu2190.txt Pub American
+menu2191.txt Brazilian South-American
+menu2192.txt Latin Spanish
+menu2193.txt Thai
+menu2194.txt Asian Thai
+menu2195.txt Chinese Asian Thai
+menu2196.txt Japanese Sushi Asian
+menu2197.txt Greek Middle-Eastern Kosher
+menu2198.txt American
+menu2199.txt Mediterranean Healthy
