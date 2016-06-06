@@ -10,7 +10,7 @@ from nltk import recall
 import collections
 
 # Create corpus reader from categorized corpus in current directory
-menureader = CategorizedPlaintextCorpusReader('.', r'menu.*\.txt', cat_file='cats.txt')
+menureader = CategorizedPlaintextCorpusReader('./menus', r'menu.*\.txt', cat_file='../cats.txt')
 
 # Sort specific categories into more broad general categories for higher accuracy
 general_cats = {'Asian':['Asian','Chinese','Cambodian','Filipino','Indian','Japanese','Korean','Malaysian','Sushi','Thai','Vietnamese','Indonesian','Pacific-Rim','Burmese','Sri-Lankan'],
